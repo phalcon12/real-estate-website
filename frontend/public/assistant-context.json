@@ -1,0 +1,63 @@
+{
+  "site":{
+    "title":"RAB Homes Ng Ltd",
+    "tagline":"Curating the finest residences in Abuja — bespoke craftsmanship, exceptional privacy, and world-class finishes.",
+    "description":"RAB Homes Ng Ltd is a premium real estate company based in Abuja, Nigeria. We specialize in ultra-luxury residences that emphasize exclusivity, craftsmanship, and superior amenities.",
+    "contact":{
+      "email":"hello@rabhomes.ng",
+      "phone":"+234 800 000 0000",
+      "address":"Abuja, Nigeria"
+    }
+  },
+  "team": [
+    {"name":"Rabiu Usman","role":"Owner","bio":"Company founder and principal, focused on high-end property curation."},
+    {"name":"Abubakar Abdulsamad","role":"Head of Digital Strategy & Technology","bio":"Leads digital strategy and technology for RAB Homes."}
+  ],
+  "properties": [
+    {
+      "id":"amaranta-villa",
+      "title":"Amaranta Villa",
+      "location":"Abuja, Banex Estate",
+      "priceUSD":1250000,
+      "priceNGN":1150000000,
+      "short":"A landmark 5-bedroom villa with marble finishes, an infinity pool and private cinema.",
+      "features":["5 Bedrooms","6 Baths","5400 sq ft","Infinity Pool","Private Cinema","Smart Home"]
+    },
+    {
+      "id":"serengeti-mews",
+      "title":"Serengeti Mews",
+      "location":"Abuja, Asokoro",
+      "priceUSD":950000,
+      "priceNGN":874000000,
+      "short":"Private gated mews offering handcrafted interiors and manicured courtyards.",
+      "features":["4 Bedrooms","5 Baths","4200 sq ft","Private Courtyard","Gated Community"]
+    },
+    {
+      "id":"alba-estate",
+      "title":"Alba Estate Residence",
+      "location":"Abuja, Maitama",
+      "priceUSD":2200000,
+      "priceNGN":2024000000,
+      "short":"Timeless estate with grand halls, private spa, and extensive landscaped grounds.",
+      "features":["7 Bedrooms","9 Baths","8000 sq ft","Private Spa","Landscaped Grounds"]
+    },
+    {
+      "id":"montclaire-penthouse",
+      "title":"Montclaire Penthouse",
+      "location":"Abuja, Central Business District",
+      "priceUSD":1850000,
+      "priceNGN":1702000000,
+      "short":"Skyline penthouse with rooftop terrace and concierge service.",
+      "features":["3 Bedrooms","4 Baths","3800 sq ft","Rooftop Terrace","Panoramic Views"]
+    },
+    {
+      "id":"the-vanguard-manor",
+      "title":"Vanguard Manor",
+      "location":"Abuja, Gudu",
+      "priceUSD":1400000,
+      "priceNGN":1288000000,
+      "short":"Elegant manor with gallery entrance, wine cellar and private tennis court.",
+      "features":["6 Bedrooms","7 Baths","6200 sq ft","Wine Cellar","Tennis Court"]
+    }
+  ]
+}
