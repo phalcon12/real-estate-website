@@ -24,6 +24,15 @@
       "content": "Contact RAB Homes for private viewings, investment enquiries, and bespoke development. Headquarters: Abuja, Nigeria. Email: hello@rabhomes.ng. Phone: +234 800 000 0000."
     }
   ],
+  "leadership": {
+    "usman-rabiu": {
+      "name": "Mr. Usman Rabiu",
+      "title": "Founder & Chief Executive Officer",
+      "bio": "Mr. Usman Rabiu is the Founder and Principal Director of RAB Homes Nig Ltd. He is a visionary real estate entrepreneur driven by excellence, integrity, and a passion for delivering world-class property solutions.",
+      "image": "./assets/images/1767347780925.jpg",
+      "imageAlt": "Usman Rabiu — Founder & CEO, RAB Homes"
+    }
+  },
   "properties": {
     "amaranta-villa": {
       "title": "Amaranta Villa",
