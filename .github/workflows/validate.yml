@@ -1,0 +1,22 @@
+name: Validate Static Site
+
+on: [push, pull_request]
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start simple HTTP server
+        run: |
+          python3 -m http.server 8000 &
+          sleep 1
+      - name: Check index.html
+        run: |
+          curl -sSfI http://localhost:8000/ | head -n 1
+      - name: Check properties.html
+        run: |
+          curl -sSfI http://localhost:8000/properties.html | head -n 1
+      - name: Check assistant context
+        run: |
+          curl -sSfI http://localhost:8000/assistant-context.json | head -n 1

@@ -1,0 +1,1 @@
+Place high-resolution property images here for production. Current demo uses Unsplash placeholder URLs directly in HTML/JS. Replace these with local image files and update src attributes when ready.

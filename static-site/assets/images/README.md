@@ -1,1 +1,0 @@
-This folder is intended for high-resolution property images. In this static demo we used remote Unsplash images; replace with production images here and update <img> src values accordingly.

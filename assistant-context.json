@@ -1,0 +1,64 @@
+{
+  "site": "RAB Homes",
+  "description": "RAB Homes Nig Ltd — premium luxury real estate development and property management based in Abuja, Nigeria.",
+  "generatedAt": "2026-01-01T00:00:00Z",
+  "pages": [
+    {
+      "path": "/index.html",
+      "title": "RAB Homes — Redefining Luxury Living",
+      "content": "Hero: Redefining Luxury Living. Premium real estate developments inspired by global elegance and crafted for timeless living. Services include luxury property development, sales, property management, consultancy, and investment advisory. Vision: become one of Africa's most respected luxury real estate brands. Leadership: Mr. Usman Rabiu (Founder & CEO) and Abubakar Abdulsamad (Director of Digital Strategy & Technology). Contact teaser: private viewings and bespoke development enquiries."
+    },
+    {
+      "path": "/about.html",
+      "title": "About RAB Homes",
+      "content": "RAB Homes Nig Ltd is a luxury real estate development and property management company focused on superior quality, refined design, and long-term investment value. Headquartered in Abuja, Nigeria, the company blends American architectural precision, Arabian elegance, and Italian craftsmanship."
+    },
+    {
+      "path": "/properties.html",
+      "title": "Properties — RAB Homes",
+      "content": "A curated collection of premium residences and investment-grade properties. Listings: Amaranta Villa (Abuja, Banex Estate) - 5 beds, 6 baths, 5,400 sq ft; Serengeti Mews (Abuja, Asokoro) - 4 beds, 5 baths; Montclaire Penthouse (CBD) - 3 beds, rooftop terrace; Vanguard Manor (Gudu) - 6 beds, wine cellar, tennis court; Alba Estate Residence (Maitama) - 7 beds, private spa. Each listing includes price in USD and NGN and a short description."
+    },
+    {
+      "path": "/contact.html",
+      "title": "Contact",
+      "content": "Contact RAB Homes for private viewings, investment enquiries, and bespoke development. Headquarters: Abuja, Nigeria. Email: hello@rabhomes.ng. Phone: +234 800 000 0000."
+    }
+  ],
+  "properties": {
+    "amaranta-villa": {
+      "title": "Amaranta Villa",
+      "location": "Abuja, Banex Estate",
+      "priceUSD": "$1,250,000",
+      "priceNGN": "₦1,150,000,000",
+      "desc": "An exceptional 5-bedroom villa spanning 5,400 sq ft with marble finishes, an infinity pool, private cinema, and bespoke fixtures throughout."
+    },
+    "serengeti-mews": {
+      "title": "Serengeti Mews",
+      "location": "Abuja, Asokoro",
+      "priceUSD": "$950,000",
+      "priceNGN": "₦874,000,000",
+      "desc": "A sophisticated private gated mews offering sanctuary, hand-crafted timber, and manicured courtyards."
+    },
+    "montclaire-penthouse": {
+      "title": "Montclaire Penthouse",
+      "location": "Abuja, Central Business District",
+      "priceUSD": "$1,850,000",
+      "priceNGN": "₦1,702,000,000",
+      "desc": "A skyline penthouse with private rooftop terrace, plunge pool and panoramic views — urban luxury perfected."
+    },
+    "the-vanguard-manor": {
+      "title": "Vanguard Manor",
+      "location": "Abuja, Gudu",
+      "priceUSD": "$1,400,000",
+      "priceNGN": "₦1,288,000,000",
+      "desc": "An elegant manor with gallery entrance, wine cellar and private tennis court tailored for dignified living."
+    },
+    "alba-estate": {
+      "title": "Alba Estate Residence",
+      "location": "Abuja, Maitama",
+      "priceUSD": "$2,200,000",
+      "priceNGN": "₦2,024,000,000",
+      "desc": "A timeless estate with landscaped grounds, private spa, and grand entertaining spaces across 8,000 sq ft."
+    }
+  }
+}
